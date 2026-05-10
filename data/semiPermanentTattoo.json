@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ombre Powder Brows",
+    "duration": null,
+    "price": 350
+  },
+  {
+    "name": "Microshading Brows",
+    "duration": null,
+    "price": 350
+  },
+  {
+    "name": "Combrows (microblading + shading combo)",
+    "duration": null,
+    "price": 350
+  },
+  {
+    "name": "6th Week Eyebrow Touch-up",
+    "duration": null,
+    "price": 100
+  },
+  {
+    "name": "Eyeliner Tattoo",
+    "duration": null,
+    "price": 325
+  },
+  {
+    "name": "Lip Blushing Tattoo",
+    "duration": null,
+    "price": 325
+  },
+  {
+    "name": "6th Week Lip Touch-up",
+    "duration": null,
+    "price": 100
+  },
+  {
+    "name": "Refill",
+    "duration": null,
+    "price": 200
+  }
+]

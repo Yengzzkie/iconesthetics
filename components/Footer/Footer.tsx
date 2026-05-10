@@ -1,14 +1,13 @@
+import Logo from "../ui/Logo/Logo";
 import { FaFacebookF, FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="border-t border-outline-variant/10 bg-surface-container-lowest py-20 px-16">
+    <footer className="border-t border-outline-variant/10 bg-surface-container-lowest py-10 lg:py-20 px-8 lg:px-16">
       <div className="max-w-container-max mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-start gap-16 mb-20">
           <div className="space-y-6 max-w-sm">
-            <h2 className="font-display-xl text-headline-md text-primary uppercase">
-              ICON ESTHETICS
-            </h2>
+            <Logo />
             <p className="text-on-surface-variant text-sm font-light leading-relaxed">
               Redefining the standards of medical aesthetics through precision,
               artistry, and an unwavering commitment to luxury.
@@ -70,16 +69,10 @@ const Footer = () => {
           </div>
         </div>
         <div className="flex flex-col md:flex-row justify-between items-center pt-10 border-t border-outline-variant/10 text-[10px] font-label-sm tracking-widest text-on-tertiary-fixed-variant uppercase">
-          <p>© 2024 ICON ESTHETICS. ALL RIGHTS RESERVED.</p>
+          <p>© {new Date().getFullYear()} ICON ESTHETICS. ALL RIGHTS RESERVED.</p>
           <div className="flex gap-8 mt-6 md:mt-0">
-            <a className="hover:text-primary transition-colors" href="#">
-              PRIVACY POLICY
-            </a>
-            <a className="hover:text-primary transition-colors" href="#">
-              TERMS OF SERVICE
-            </a>
-            <a className="hover:text-primary transition-colors" href="#">
-              CONTACT
+            <a className="hover:text-primary transition-colors" href="https://www.facebook.com/yengzzkie/" target="_blank">
+              SEO and Design by Manuel Gatchalian
             </a>
           </div>
         </div>

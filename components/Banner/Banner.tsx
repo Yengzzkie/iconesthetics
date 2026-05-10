@@ -14,7 +14,7 @@ const Banner = () => {
             <img
               className="w-full h-full object-cover transition-all duration-700"
               data-alt="A macro close-up of a high-end medical treatment being performed. A gloved hand holds a sleek, metallic dermatological tool against clean, perfect skin. The lighting is dramatic and focused, highlighting the precision and clinical expertise of the brand. The color palette is composed of deep blacks, charcoal greys, and shimmering gold accents."
-              src="https://lh3.googleusercontent.com/aida/ADBb0uhCorgF6nLM1lf2EA69dRWlEGNvohVDGm76RXfvjsSDnWdxEEzdNUcjgWDxP5tY3klUt41XESLMtVIVi-fjuJQO4AELw7J5sEfRgpYIwWNLxNv7k-dKbf49k0F43NkLolYmAJ05X01iMucJa9OiwZ-wW8OfscLlruTqBXRest0GjJ1nxBkalan5NIXhUgl4xRcn2mtlG_Oj8RbCsxbwvclRoQE0gACFMOd22qCGxsztfGJCm0XZk2YwPHtaZa3qpDaYBvd2En6YvwA"
+              src="banner2.webp"
             />
           </div>
           <div className="absolute -bottom-8 -right-8 bg-primary p-10 hidden lg:block">

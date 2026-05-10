@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Haircut + Blow Dry & Style",
+    "duration": null,
+    "price": 45
+  },
+  {
+    "name": "Haircut + Blow Dry & Style (Senior)",
+    "duration": null,
+    "price": 40
+  },
+  {
+    "name": "Haircut + Blow Dry & Style w/ Scalp Massage",
+    "duration": null,
+    "price": 70
+  },
+  {
+    "name": "Haircut + Blow Dry & Style w/ Scalp Massage (Senior)",
+    "duration": null,
+    "price": 65
+  },
+  {
+    "name": "Scalp Treatment (Add-on)",
+    "duration": null,
+    "price": 30
+  },
+  {
+    "name": "Kids Cut (12 & Under)",
+    "duration": null,
+    "price": 25
+  }
+]
