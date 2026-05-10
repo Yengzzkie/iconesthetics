@@ -9,7 +9,7 @@ import { BsHighlighter } from "react-icons/bs";
 
 const FeaturedServices = () => {
   return (
-    <section className="py-32 px-16 mx-auto">
+    <section className="py-16 lg:py-32 px-6 lg:px-16 mx-auto">
       <div className="flex flex-col md:flex-row justify-between items-end mb-20 gap-8">
         <div className="max-w-2xl">
           <span className="text-(--text-primary) tracking-widest uppercase block mb-4">
@@ -20,7 +20,7 @@ const FeaturedServices = () => {
         <div className="pb-2">
           <a
             className="text-(--text-on-surface-variant) hover:text-(--text-primary) transition-colors tracking-widest uppercase flex items-center gap-2"
-            href="#"
+            href="/our-services"
           >
             View All Services
             <span className="material-symbols-outlined text-sm">

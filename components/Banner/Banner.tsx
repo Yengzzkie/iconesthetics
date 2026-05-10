@@ -7,8 +7,8 @@ import {
 
 const Banner = () => {
   return (
-    <section className="bg-surface-container-lowest py-32 px-16">
-      <div className="mx-auto grid grid-cols-1 md:grid-cols-2 gap-24 items-center">
+    <section className="bg-surface-container-lowest py-16 lg:py-32 px-8 lg:px-16">
+      <div className="mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-24 items-center">
         <div className="relative">
           <div className="aspect-4/5 bg-surface-container-high overflow-hidden border border-(--text-primary)/20">
             <img
